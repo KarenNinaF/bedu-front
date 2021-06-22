@@ -13,3 +13,6 @@ git remote add origin https://github.com/andres2093/santander-front.git
  
 # Enviar commits al servidor de GitHub
 git push -u origin master
+
+# Para revisar archivos
+git status 
